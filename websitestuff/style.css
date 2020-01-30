@@ -1,0 +1,67 @@
+/* CSS DOCUMENT */ 
+
+html {
+    background: #ECECED;
+}
+
+body {
+    background: #ECECED;
+    color: #545454;
+    margin: 1.5em; 
+    padding: 2em 4em 4em;
+    font-family: sans-serif;
+}
+
+h1{ 
+    color: #245D68; 
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    text-transform: uppercase; 
+    text-align: center;
+    font-size: 3em;
+}
+
+
+h2{ 
+    color: #4F9990;
+    margin: 0; 
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul{ 
+    margin: 0;
+    padding: 0; 
+    list-style-type: none;
+}
+
+.foodtype{ 
+    color: #56A69C;
+    text-align: center;
+    border: 1em; 
+    /*padding: 1em;*/
+    text-transform: uppercase;
+    border-color: aqua;
+}
+
+.description{ 
+    border: 1em; 
+    padding: 0;  
+    text-align: center;
+    font-style: italic; 
+    font-family: serif; 
+    line-height: 1; 
+    border-color: aqua;
+}
+
+.price{ 
+    text-align: center; 
+    font-family: serif;
+}
+
+.food{ 
+    text-align:center;
+}
+
+} 
